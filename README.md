@@ -1,34 +1,42 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=3A86FF,00F5C4&height=200&section=header&text=Bernardo%20Marques&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Desenvolvedor%20Python%20%7C%20Cibersegurança%20%7C%20IA&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=3A86FF,00F5C4&height=220&section=header&text=Bernardo%20Marques&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Desenvolvedor%20Python%20%7C%20Ciberseguran%C3%A7a%20%7C%20IA&descAlignY=60&descSize=17&animation=fadeIn&fontAlign=50&stroke=00F5C4&strokeWidth=1" width="100%"/>
 
 </div>
 
----
-
 <div align="center">
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F5C4&center=true&vCenter=true&width=600&lines=Desenvolvedor+Python+autodidata+%F0%9F%90%8D;Medalhista+ol%C3%ADmpico+%F0%9F%A5%88;Focado+em+Ciberseguran%C3%A7a+%F0%9F%94%90;Sempre+aprendendo%2C+sempre+construindo+%E2%9C%A8" alt="Typing SVG" />
+
+<br/><br/>
+
+---
 
 ### 🌐 Portfólio
 
 <a href="https://bernardostack.github.io" target="_blank">
-  <img src="https://img.shields.io/badge/✦%20bernardostack.github.io%20✦-%23050810.svg?style=for-the-badge&logoColor=white&color=3A86FF" height="40"/>
+  <img src="https://img.shields.io/badge/-%E2%9C%A6%20%20bernardostack.github.io%20%20%E2%9C%A6-0d1117?style=for-the-badge&logoColor=white" height="36"/>
 </a>
-
-<br/><br/>
-
-> *"Curiosidade é a melhor linguagem de programação."*
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F5C4&center=true&vCenter=true&width=600&lines=Desenvolvedor+Python+autodidata+%F0%9F%90%8D;Medalhista+ol%C3%ADmpico+%F0%9F%A5%88;Focado+em+Ciberseguran%C3%A7a+%F0%9F%94%90;Sempre+aprendendo%2C+sempre+construindo+%E2%9C%A8" alt="Typing SVG" />
-</div>
 
 <br/>
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding gif"/>
+[![Portfolio](https://img.shields.io/badge/Acessar%20Portf%C3%B3lio%20%E2%86%97-3A86FF?style=flat-square&logoColor=white)](https://bernardostack.github.io)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/Ver%20Projetos%20%E2%86%97-00F5C4?style=flat-square&logoColor=black)](https://github.com/Bernardo2607)
+
+<br/>
+
+> *✦ &nbsp; "Curiosidade é a melhor linguagem de programação." &nbsp; ✦*
+
+<br/>
+
+---
+
+</div>
+
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="coding gif"/>
 
 ---
 
