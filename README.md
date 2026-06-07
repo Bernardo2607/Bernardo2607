@@ -22,12 +22,6 @@
 &nbsp;
 [![GitHub](https://img.shields.io/badge/Ver%20Projetos%20%E2%86%97-00F5C4?style=flat-square&logoColor=black)](https://github.com/Bernardo2607)
 
-<br/>
-
-> *✦ &nbsp; "Curiosidade é a melhor linguagem de programação." &nbsp; ✦*
-
-<br/>
-
 ---
 
 ## 💻 Tech Stack
