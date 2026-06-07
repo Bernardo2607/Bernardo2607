@@ -58,16 +58,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=Bernardo2607&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-</div>
-
----
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=3A86FF,00F5C4&height=100&section=footer&animation=fadeIn" width="100%"/>
