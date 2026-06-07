@@ -1,18 +1,81 @@
-# 💫 About Me:
-​💻 Desenvolvedor Python focado em Cibersegurança e Manipulação de Dados. Transformando ideias em código.
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=3A86FF,00F5C4&height=200&section=header&text=Bernardo%20Marques&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Desenvolvedor%20Python%20%7C%20Cibersegurança%20%7C%20IA&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Bernardo2607&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Bernardo2607&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Bernardo2607&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Bernardo2607&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Bernardo2607&icon=4&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+
+### 🌐 Portfólio
+
+<a href="https://bernardostack.github.io" target="_blank">
+  <img src="https://img.shields.io/badge/✦%20bernardostack.github.io%20✦-%23050810.svg?style=for-the-badge&logoColor=white&color=3A86FF" height="40"/>
+</a>
+
+<br/><br/>
+
+> *"Curiosidade é a melhor linguagem de programação."*
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F5C4&center=true&vCenter=true&width=600&lines=Desenvolvedor+Python+autodidata+%F0%9F%90%8D;Medalhista+ol%C3%ADmpico+%F0%9F%A5%88;Focado+em+Ciberseguran%C3%A7a+%F0%9F%94%90;Sempre+aprendendo%2C+sempre+construindo+%E2%9C%A8" alt="Typing SVG" />
+</div>
+
+<br/>
+
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding gif"/>
+
+---
+
+## 💻 Tech Stack
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.shion.dev/api?username=Bernardo2607&theme=dark&hide_border=false&include_all_commits=true&count_private=false" height="165"/>
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Bernardo2607&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="165"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=Bernardo2607&theme=dark&hide_border=false"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+![](https://github-profile-trophy.vercel.app/?username=Bernardo2607&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=3A86FF,00F5C4&height=100&section=footer&animation=fadeIn" width="100%"/>
+
+[![](https://komarev.com/ghpvc/?username=Bernardo2607&icon=4&color=3A86FF)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) — enhanced by BM.dev -->
+
+</div>
